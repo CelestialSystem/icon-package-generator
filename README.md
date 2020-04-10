@@ -10,6 +10,8 @@ __The purpose of this package genertor is to create a pluggable icon package tha
 
 This package include the complete list of icons key in json format that are used in Froala.
 
+
+### Working
 This package genertor works in two ways basically and it depends on the user requirement.
 1. If the user want to update the icons used in Froala to an icon library and that library provides prefix like for Font Awesome 3/4/5 or Material Design or Glyphicon
 Then in that case user just need to pass the className prefix of the same while running the generator. For eg:
@@ -34,5 +36,7 @@ or
 node iconSet zen-
 ```
 
+
+### Result
 After running the command and ___output.json___ will get created which is the target icon package, 
 which can be directly tested here: Link to package tester.
