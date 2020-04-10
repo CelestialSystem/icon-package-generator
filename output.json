@@ -1,0 +1,696 @@
+[
+  {
+    "iconId": "bold",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "bold",
+        "class": "svg-inline--fa fa-bold fa-w-12",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 384 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M333.49 238a122 122 0 0 0 27-65.21C367.87 96.49 308 32 233.42 32H34a16 16 0 0 0-16 16v48a16 16 0 0 0 16 16h31.87v288H34a16 16 0 0 0-16 16v48a16 16 0 0 0 16 16h209.32c70.8 0 134.14-51.75 141-122.4 4.74-48.45-16.39-92.06-50.83-119.6zM145.66 112h87.76a48 48 0 0 1 0 96h-87.76zm87.76 288h-87.76V288h87.76a56 56 0 0 1 0 112z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "italic",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "italic",
+        "class": "svg-inline--fa fa-italic fa-w-10",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 320 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M320 48v32a16 16 0 0 1-16 16h-62.76l-80 320H208a16 16 0 0 1 16 16v32a16 16 0 0 1-16 16H16a16 16 0 0 1-16-16v-32a16 16 0 0 1 16-16h62.76l80-320H112a16 16 0 0 1-16-16V48a16 16 0 0 1 16-16h192a16 16 0 0 1 16 16z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "underline",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "underline",
+        "class": "svg-inline--fa fa-underline fa-w-14",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 448 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M32 64h32v160c0 88.22 71.78 160 160 160s160-71.78 160-160V64h32a16 16 0 0 0 16-16V16a16 16 0 0 0-16-16H272a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h32v160a80 80 0 0 1-160 0V64h32a16 16 0 0 0 16-16V16a16 16 0 0 0-16-16H32a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm400 384H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "strikeThrough",
+    "iconClassKey": "fas fa-strikeThrough"
+  },
+  {
+    "iconId": "subscript",
+    "iconClassKey": "fas fa-subscript"
+  },
+  {
+    "iconId": "superscript",
+    "iconClassKey": "fas fa-superscript"
+  },
+  {
+    "iconId": "color",
+    "iconClassKey": "fas fa-color"
+  },
+  {
+    "iconId": "outdent",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "outdent",
+        "class": "svg-inline--fa fa-outdent fa-w-14",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 448 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M100.69 363.29c10 10 27.31 2.93 27.31-11.31V160c0-14.32-17.33-21.31-27.31-11.31l-96 96a16 16 0 0 0 0 22.62zM432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm3.17-128H204.83A12.82 12.82 0 0 0 192 300.83v38.34A12.82 12.82 0 0 0 204.83 352h230.34A12.82 12.82 0 0 0 448 339.17v-38.34A12.82 12.82 0 0 0 435.17 288zm0-128H204.83A12.82 12.82 0 0 0 192 172.83v38.34A12.82 12.82 0 0 0 204.83 224h230.34A12.82 12.82 0 0 0 448 211.17v-38.34A12.82 12.82 0 0 0 435.17 160zM432 32H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "indent",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "indent",
+        "class": "svg-inline--fa fa-indent fa-w-14",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 448 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M27.31 363.3l96-96a16 16 0 0 0 0-22.62l-96-96C17.27 138.66 0 145.78 0 160v192c0 14.31 17.33 21.3 27.31 11.3zM432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm3.17-128H204.83A12.82 12.82 0 0 0 192 300.83v38.34A12.82 12.82 0 0 0 204.83 352h230.34A12.82 12.82 0 0 0 448 339.17v-38.34A12.82 12.82 0 0 0 435.17 288zm0-128H204.83A12.82 12.82 0 0 0 192 172.83v38.34A12.82 12.82 0 0 0 204.83 224h230.34A12.82 12.82 0 0 0 448 211.17v-38.34A12.82 12.82 0 0 0 435.17 160zM432 32H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "undo",
+    "iconClassKey": "fas fa-undo"
+  },
+  {
+    "iconId": "redo",
+    "iconClassKey": "fas fa-redo"
+  },
+  {
+    "iconId": "insertHR",
+    "iconClassKey": "fas fa-insertHR"
+  },
+  {
+    "iconId": "clearFormatting",
+    "iconClassKey": "fas fa-clearFormatting"
+  },
+  {
+    "iconId": "selectAll",
+    "iconClassKey": "fas fa-selectAll"
+  },
+  {
+    "iconId": "moreText",
+    "iconClassKey": "fas fa-moreText"
+  },
+  {
+    "iconId": "moreParagraph",
+    "iconClassKey": "fas fa-moreParagraph"
+  },
+  {
+    "iconId": "moreRich",
+    "iconClassKey": "fas fa-moreRich"
+  },
+  {
+    "iconId": "moreMisc",
+    "iconClassKey": "fas fa-moreMisc"
+  },
+  {
+    "iconId": "align",
+    "iconClassKey": "fas fa-align"
+  },
+  {
+    "iconId": "alignLeft",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "align-left",
+        "class": "svg-inline--fa fa-align-left fa-w-14",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 448 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M12.83 352h262.34A12.82 12.82 0 0 0 288 339.17v-38.34A12.82 12.82 0 0 0 275.17 288H12.83A12.82 12.82 0 0 0 0 300.83v38.34A12.82 12.82 0 0 0 12.83 352zm0-256h262.34A12.82 12.82 0 0 0 288 83.17V44.83A12.82 12.82 0 0 0 275.17 32H12.83A12.82 12.82 0 0 0 0 44.83v38.34A12.82 12.82 0 0 0 12.83 96zM432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "alignRight",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "align-right",
+        "class": "svg-inline--fa fa-align-right fa-w-14",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 448 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M16 224h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16zm416 192H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm3.17-384H172.83A12.82 12.82 0 0 0 160 44.83v38.34A12.82 12.82 0 0 0 172.83 96h262.34A12.82 12.82 0 0 0 448 83.17V44.83A12.82 12.82 0 0 0 435.17 32zm0 256H172.83A12.82 12.82 0 0 0 160 300.83v38.34A12.82 12.82 0 0 0 172.83 352h262.34A12.82 12.82 0 0 0 448 339.17v-38.34A12.82 12.82 0 0 0 435.17 288z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "alignCenter",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "align-center",
+        "class": "svg-inline--fa fa-align-center fa-w-14",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 448 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M432 160H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0 256H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zM108.1 96h231.81A12.09 12.09 0 0 0 352 83.9V44.09A12.09 12.09 0 0 0 339.91 32H108.1A12.09 12.09 0 0 0 96 44.09V83.9A12.1 12.1 0 0 0 108.1 96zm231.81 256A12.09 12.09 0 0 0 352 339.9v-39.81A12.09 12.09 0 0 0 339.91 288H108.1A12.09 12.09 0 0 0 96 300.09v39.81a12.1 12.1 0 0 0 12.1 12.1z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "alignJustify",
+    "iconInfo": {
+      "name": "svg",
+      "type": "element",
+      "value": "",
+      "attributes": {
+        "aria-hidden": "true",
+        "focusable": "false",
+        "data-prefix": "fas",
+        "data-icon": "align-justify",
+        "class": "svg-inline--fa fa-align-justify fa-w-14",
+        "role": "img",
+        "xmlns": "http://www.w3.org/2000/svg",
+        "viewBox": "0 0 448 512"
+      },
+      "children": [
+        {
+          "name": "path",
+          "type": "element",
+          "value": "",
+          "attributes": {
+            "fill": "currentColor",
+            "d": "M432 416H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm0-128H16A16 16 0 0 0 0 48v32a16 16 0 0 0 16 16h416a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16z"
+          },
+          "children": []
+        }
+      ]
+    }
+  },
+  {
+    "iconId": "html",
+    "iconClassKey": "fas fa-html"
+  },
+  {
+    "iconId": "textColor",
+    "iconClassKey": "fas fa-textColor"
+  },
+  {
+    "iconId": "backgroundColor",
+    "iconClassKey": "fas fa-backgroundColor"
+  },
+  {
+    "iconId": "colorsBack",
+    "iconClassKey": "fas fa-colorsBack"
+  },
+  {
+    "iconId": "remove",
+    "iconClassKey": "fas fa-remove"
+  },
+  {
+    "iconId": "emoticons",
+    "iconClassKey": "fas fa-emoticons"
+  },
+  {
+    "iconId": "emoticonsBack",
+    "iconClassKey": "fas fa-emoticonsBack"
+  },
+  {
+    "iconId": "insertFile",
+    "iconClassKey": "fas fa-insertFile"
+  },
+  {
+    "iconId": "fileBack",
+    "iconClassKey": "fas fa-fileBack"
+  },
+  {
+    "iconId": "fontFamily",
+    "iconClassKey": "fas fa-fontFamily"
+  },
+  {
+    "iconId": "fontSize",
+    "iconClassKey": "fas fa-fontSize"
+  },
+  {
+    "iconId": "inputStyle",
+    "iconClassKey": "fas fa-inputStyle"
+  },
+  {
+    "iconId": "inputEdit",
+    "iconClassKey": "fas fa-inputEdit"
+  },
+  {
+    "iconId": "inputBack",
+    "iconClassKey": "fas fa-inputBack"
+  },
+  {
+    "iconId": "fullscreen",
+    "iconClassKey": "fas fa-fullscreen"
+  },
+  {
+    "iconId": "fullscreenCompress",
+    "iconClassKey": "fas fa-fullscreenCompress"
+  },
+  {
+    "iconId": "help",
+    "iconClassKey": "fas fa-help"
+  },
+  {
+    "iconId": "insertImage",
+    "iconClassKey": "fas fa-insertImage"
+  },
+  {
+    "iconId": "imageUpload",
+    "iconClassKey": "fas fa-imageUpload"
+  },
+  {
+    "iconId": "imageByURL",
+    "iconClassKey": "fas fa-imageByURL"
+  },
+  {
+    "iconId": "imageDisplay",
+    "iconClassKey": "fas fa-imageDisplay"
+  },
+  {
+    "iconId": "imageAlign",
+    "iconClassKey": "fas fa-imageAlign"
+  },
+  {
+    "iconId": "imageAlignLeft",
+    "iconClassKey": "fas fa-imageAlignLeft"
+  },
+  {
+    "iconId": "imageAlignRight",
+    "iconClassKey": "fas fa-imageAlignRight"
+  },
+  {
+    "iconId": "imageAlignCenter",
+    "iconClassKey": "fas fa-imageAlignCenter"
+  },
+  {
+    "iconId": "imageAlignJustify",
+    "iconClassKey": "fas fa-imageAlignJustify"
+  },
+  {
+    "iconId": "imageReplace",
+    "iconClassKey": "fas fa-imageReplace"
+  },
+  {
+    "iconId": "imageRemove",
+    "iconClassKey": "fas fa-imageRemove"
+  },
+  {
+    "iconId": "imageBack",
+    "iconClassKey": "fas fa-imageBack"
+  },
+  {
+    "iconId": "imageStyle",
+    "iconClassKey": "fas fa-imageStyle"
+  },
+  {
+    "iconId": "imageAlt",
+    "iconClassKey": "fas fa-imageAlt"
+  },
+  {
+    "iconId": "imageSize",
+    "iconClassKey": "fas fa-imageSize"
+  },
+  {
+    "iconId": "imageCaption",
+    "iconClassKey": "fas fa-imageCaption"
+  },
+  {
+    "iconId": "imageManager",
+    "iconClassKey": "fas fa-imageManager"
+  },
+  {
+    "iconId": "imageManagerInsert",
+    "iconClassKey": "fas fa-imageManagerInsert"
+  },
+  {
+    "iconId": "imageManagerDelete",
+    "iconClassKey": "fas fa-imageManagerDelete"
+  },
+  {
+    "iconId": "inlineClass",
+    "iconClassKey": "fas fa-inlineClass"
+  },
+  {
+    "iconId": "inlineStyle",
+    "iconClassKey": "fas fa-inlineStyle"
+  },
+  {
+    "iconId": "lineHeight",
+    "iconClassKey": "fas fa-lineHeight"
+  },
+  {
+    "iconId": "insertLink",
+    "iconClassKey": "fas fa-insertLink"
+  },
+  {
+    "iconId": "linkOpen",
+    "iconClassKey": "fas fa-linkOpen"
+  },
+  {
+    "iconId": "linkEdit",
+    "iconClassKey": "fas fa-linkEdit"
+  },
+  {
+    "iconId": "linkRemove",
+    "iconClassKey": "fas fa-linkRemove"
+  },
+  {
+    "iconId": "linkBack",
+    "iconClassKey": "fas fa-linkBack"
+  },
+  {
+    "iconId": "linkList",
+    "iconClassKey": "fas fa-linkList"
+  },
+  {
+    "iconId": "imageLink",
+    "iconClassKey": "fas fa-imageLink"
+  },
+  {
+    "iconId": "linkStyle",
+    "iconClassKey": "fas fa-linkStyle"
+  },
+  {
+    "iconId": "formatOLSimple",
+    "iconClassKey": "fas fa-formatOLSimple"
+  },
+  {
+    "iconId": "formatUL",
+    "iconClassKey": "fas fa-formatUL"
+  },
+  {
+    "iconId": "formatOL",
+    "iconClassKey": "fas fa-formatOL"
+  },
+  {
+    "iconId": "paragraphFormat",
+    "iconClassKey": "fas fa-paragraphFormat"
+  },
+  {
+    "iconId": "paragraphStyle",
+    "iconClassKey": "fas fa-paragraphStyle"
+  },
+  {
+    "iconId": "print",
+    "iconClassKey": "fas fa-print"
+  },
+  {
+    "iconId": "getPDF",
+    "iconClassKey": "fas fa-getPDF"
+  },
+  {
+    "iconId": "quickInsert",
+    "iconClassKey": "fas fa-quickInsert"
+  },
+  {
+    "iconId": "quote",
+    "iconClassKey": "fas fa-quote"
+  },
+  {
+    "iconId": "save",
+    "iconClassKey": "fas fa-save"
+  },
+  {
+    "iconId": "specialCharacters",
+    "iconClassKey": "fas fa-specialCharacters"
+  },
+  {
+    "iconId": "specialCharBack",
+    "iconClassKey": "fas fa-specialCharBack"
+  },
+  {
+    "iconId": "insertTable",
+    "iconClassKey": "fas fa-insertTable"
+  },
+  {
+    "iconId": "tableHeader",
+    "iconClassKey": "fas fa-tableHeader"
+  },
+  {
+    "iconId": "tableRows",
+    "iconClassKey": "fas fa-tableRows"
+  },
+  {
+    "iconId": "tableColumns",
+    "iconClassKey": "fas fa-tableColumns"
+  },
+  {
+    "iconId": "tableCells",
+    "iconClassKey": "fas fa-tableCells"
+  },
+  {
+    "iconId": "tableRemove",
+    "iconClassKey": "fas fa-tableRemove"
+  },
+  {
+    "iconId": "tableStyle",
+    "iconClassKey": "fas fa-tableStyle"
+  },
+  {
+    "iconId": "tableCellBackground",
+    "iconClassKey": "fas fa-tableCellBackground"
+  },
+  {
+    "iconId": "tableBack",
+    "iconClassKey": "fas fa-tableBack"
+  },
+  {
+    "iconId": "tableCellVerticalAlign",
+    "iconClassKey": "fas fa-tableCellVerticalAlign"
+  },
+  {
+    "iconId": "tableCellHorizontalAlign",
+    "iconClassKey": "fas fa-tableCellHorizontalAlign"
+  },
+  {
+    "iconId": "tableCellStyle",
+    "iconClassKey": "fas fa-tableCellStyle"
+  },
+  {
+    "iconId": "tableColorRemove",
+    "iconClassKey": "fas fa-tableColorRemove"
+  },
+  {
+    "iconId": "insertVideo",
+    "iconClassKey": "fas fa-insertVideo"
+  },
+  {
+    "iconId": "videoByURL",
+    "iconClassKey": "fas fa-videoByURL"
+  },
+  {
+    "iconId": "videoEmbed",
+    "iconClassKey": "fas fa-videoEmbed"
+  },
+  {
+    "iconId": "videoUpload",
+    "iconClassKey": "fas fa-videoUpload"
+  },
+  {
+    "iconId": "videoDisplay",
+    "iconClassKey": "fas fa-videoDisplay"
+  },
+  {
+    "iconId": "videoAlign",
+    "iconClassKey": "fas fa-videoAlign"
+  },
+  {
+    "iconId": "videoAlignLeft",
+    "iconClassKey": "fas fa-videoAlignLeft"
+  },
+  {
+    "iconId": "videoAlignRight",
+    "iconClassKey": "fas fa-videoAlignRight"
+  },
+  {
+    "iconId": "videoAlignJustify",
+    "iconClassKey": "fas fa-videoAlignJustify"
+  },
+  {
+    "iconId": "videoAlignCenter",
+    "iconClassKey": "fas fa-videoAlignCenter"
+  },
+  {
+    "iconId": "videoReplace",
+    "iconClassKey": "fas fa-videoReplace"
+  },
+  {
+    "iconId": "videoRemove",
+    "iconClassKey": "fas fa-videoRemove"
+  },
+  {
+    "iconId": "videoSize",
+    "iconClassKey": "fas fa-videoSize"
+  },
+  {
+    "iconId": "videoBack",
+    "iconClassKey": "fas fa-videoBack"
+  },
+  {
+    "iconId": "embedly",
+    "iconClassKey": "fas fa-embedly"
+  },
+  {
+    "iconId": "embedlyRemove",
+    "iconClassKey": "fas fa-embedlyRemove"
+  },
+  {
+    "iconId": "embedlyBack",
+    "iconClassKey": "fas fa-embedlyBack"
+  },
+  {
+    "iconId": "fontAwesome",
+    "iconClassKey": "fas fa-fontAwesome"
+  },
+  {
+    "iconId": "fontAwesomeBack",
+    "iconClassKey": "fas fa-fontAwesomeBack"
+  },
+  {
+    "iconId": "imageTUI",
+    "iconClassKey": "fas fa-imageTUI"
+  }
+]
